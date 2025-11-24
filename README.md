@@ -1,2 +1,2 @@
-# Proyecto-Final---Programaci-n-de-Dispositivos-M-viles
+# Proyecto - Final Programacion de Dispositivos Moviles
 En este Portafolio se subirán las carpetas con los códigos de Android Studio además de la documentación técnica de como se desarrollo la app
